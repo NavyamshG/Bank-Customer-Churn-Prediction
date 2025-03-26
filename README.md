@@ -55,4 +55,4 @@ This app loads a Keras model (`model.h5`) and utilizes pre-trained encoders and 
 
 ---
 
-Built by Nithyasree Kusakula
+
